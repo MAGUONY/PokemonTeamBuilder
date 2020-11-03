@@ -1,0 +1,14 @@
+Name: Charmander ()
+Type: (Fire)
+Gender: Unspecified
+Nature: Hardy	
+Ability: Blaze
+Moves: ~Empty Slot~, ~Empty Slot~, Ember, ~Empty Slot~
+
+Name: Caterpie ()
+Type: (Bug)
+Gender: Unspecified
+Nature: Hardy	
+Ability: Shield Dust
+Moves: Bug Bite, ~Empty Slot~, ~Empty Slot~, ~Empty Slot~
+
